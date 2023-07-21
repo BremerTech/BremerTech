@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>TryHackMe's Introduction To Offensive Security</b>
-  - [Hacking Into A Banking Website](https://github.com/joshmadakor1/Introduction-To-Offensive-Security)
+  - [Hacking Into A Banking Website](https://github.com/BremerTech/THM-Offensive-Security)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
