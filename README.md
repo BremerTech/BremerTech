@@ -1,5 +1,10 @@
 <h1>Hi, I'm Desiree! <br/><a href="https://github.com/bremertech">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>TryHackMe's Introduction To Offensive Security</b>
+  - [Hacking Into A Banking Website](https://github.com/joshmadakor1/Introduction-To-Offensive-Security)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
