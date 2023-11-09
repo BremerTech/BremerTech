@@ -14,7 +14,7 @@
   - [Kali Linux vs Windows](https://bremertech.com/kali-linux-vs-windows-exploring-metasploit/)
 - <b>SOC Analyst Lab (LimaCharlie EDR Telemetry, Sysmon, Sliver C2)</b>
   - [Observing EDR Telemetry - Sliver C2 vs Windows](https://bremertech.com/soc-analyst-lab-x-limacharlie-telemetry/)
- - <b>VirusTotal To Dissect Links (Examining Links In Phishing Emails)</b>
+- <b>VirusTotal To Dissect Links (Examining Links In Phishing Emails)</b>
   - [Investigating Phishing Emails](https://www.youtube.com/watch?v=Df2roqJ2PPg)
 
 <h2>📺 Popular YouTube Videos</h2>
