@@ -17,7 +17,7 @@
 - <b>VirusTotal To Dissect Links (Examining Links In Phishing Emails)</b>
   - [Investigating Phishing Emails](https://www.youtube.com/watch?v=Df2roqJ2PPg)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Installing Kali Linux On VirtualBox VM](https://www.youtube.com/watch?v=46iDWiUBUy8)
 - [Upgrading RAM for Cybersecurity Home Lab](https://www.youtube.com/watch?v=14Ow3r53c2s)
