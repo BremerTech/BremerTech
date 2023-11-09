@@ -1,6 +1,6 @@
 <h1>Hi, I'm Desiree! <br/> <a href="https://www.linkedin.com/in/desiree-turner-bremer/">Aspiring Cybersecurity Professional</a> and <a href="https://www.youtube.com/channel/UCL5gbB0neu_Devtx_v9BSdA">YouTuber</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 CyberSecurity Basics:</h2>
 
 - <b>TryHackMe's Introduction To Offensive Security</b>
   - [Hacking Into A Banking Website](https://github.com/BremerTech/THM-Offensive-Security)
