@@ -1,4 +1,4 @@
-<h1>Hi, I'm Desiree! <br/><a href="https://github.com/bremertech">Programmer</a>, <a href="https://www.linkedin.com/in/desiree-turner-bremer/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCL5gbB0neu_Devtx_v9BSdA">YouTuber</a></h1>
+<h1>Hi, I'm Desiree! <br/><a href="https://github.com/bremertech">IT Professional</a>, <a href="https://www.linkedin.com/in/desiree-turner-bremer/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCL5gbB0neu_Devtx_v9BSdA">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
