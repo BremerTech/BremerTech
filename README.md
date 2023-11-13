@@ -19,9 +19,9 @@
 
 <h2>📺 YouTube Videos</h2>
 
+- [Installing Splunk Enterprise On Windows](https://www.youtube.com/watch?v=VGX6dUeLI4Y&t=153s)
 - [Installing Kali Linux On VirtualBox VM](https://www.youtube.com/watch?v=46iDWiUBUy8)
 - [Upgrading RAM for Cybersecurity Home Lab](https://www.youtube.com/watch?v=14Ow3r53c2s)
-- [Installing Splunk Enterprise On Windows](https://www.youtube.com/watch?v=VGX6dUeLI4Y&t=153s)
 
 <h2> 🤳 Connect with me:</h2>
 
