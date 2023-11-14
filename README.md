@@ -21,6 +21,7 @@
 
 - [Installing Splunk Enterprise On Windows](https://www.youtube.com/watch?v=VGX6dUeLI4Y&t=153s)
 - [Installing Kali Linux On VirtualBox VM](https://www.youtube.com/watch?v=46iDWiUBUy8)
+- [Using TCPDUMP Filters to Analyze a PCAP](https://www.youtube.com/watch?v=j4oz6AsGw-4)
 - [Upgrading RAM for Cybersecurity Home Lab](https://www.youtube.com/watch?v=14Ow3r53c2s)
 
 <h2> 🤳 Connect with me:</h2>
